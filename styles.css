@@ -1,0 +1,21 @@
+.calculator {
+    background-color: deeppink;
+    display: flex;
+    flex-wrap: wrap;
+    width: 100px;
+    padding: 10px;
+}
+
+button {
+    margin: 2px;
+}
+
+#display {
+    height: 30px;
+    width: 80px;
+    background-color: aliceblue;
+}
+
+.operation {
+    background-color: blanchedalmond;
+}
